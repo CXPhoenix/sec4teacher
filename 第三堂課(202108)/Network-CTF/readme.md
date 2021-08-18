@@ -25,22 +25,8 @@ https://github.com/HappyHackingHigh/CTF/blob/master/MyFirstSecurity/week11_Netwo
    攻擊封包分析
    
 8.綜合題型 ==> Network + memory + VM Forensics
-   Quals NDH 2018 - Where is my Purse ?  https://ctftime.org/task/5689
-   Helps an important person to find the content of his numeric purse
-   flag{thx_you_found_my_wallet}
-   https://tipi-hack.github.io/2018/04/01/quals-NDH-18-whereismypurse.html
-   https://0x90r00t.com/2018/04/01/ndh-2018-forensics-200-where-is-my-purse-write-up/
-```
-# 解題技術
-```
-wireshark解題技術
-tshark解題技術
-python scapy解題技術
-```
-# 套題
 ```
 
-```
 # Network-1
 ```
 strings ws1_2.pcapng |grep CTF
