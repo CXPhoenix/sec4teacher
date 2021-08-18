@@ -3,20 +3,20 @@
 
 ## [第一次課程](https://github.com/8wingflying/sec4teacher/tree/main/%E7%AC%AC%E4%B8%80%E5%A0%82%E8%AA%B2(202107))
 ```
-從資訊安全到資訊倫理與法律
-編碼與解碼
-古典密碼學與破密分析
+從資訊安全到資訊倫理與法律[模組一]
+編碼與解碼[模組一]
+古典密碼學與破密分析[模組二]
 ```
 ## [第二次課程](https://github.com/8wingflying/sec4teacher/tree/main/%E7%AC%AC%E4%BA%8C%E5%A0%82%E8%AA%B2(202108))
 ```
-1.基礎linux入門
-2.隱寫術入門
+1.基礎linux入門[模組一]
+2.隱寫術入門[模組一]
 ```
 ## [第三次課程](https://github.com/8wingflying/sec4teacher/tree/main/%E7%AC%AC%E4%B8%89%E5%A0%82%E8%AA%B2(202108))
 ```
-1.網路基本概論
-2.wireshark封包分析技術
-3.Network-CTF實戰
+1.網路基本概論[模組三]
+2.wireshark封包分析技術[模組三]
+3.Network-CTF實戰[模組三]
 ```
 
 ## 課程對象
