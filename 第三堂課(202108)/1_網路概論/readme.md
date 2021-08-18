@@ -15,11 +15,20 @@
 >* [FTP (File Transfer Protocol), SFTP, TFTP Explained.](https://www.youtube.com/watch?v=tOj8MSEIbfA)
 >* [ARP Explained - Address Resolution Protocol](https://www.youtube.com/watch?v=cn8Zxh9bPio&t=3s)
 
-# 網路攻擊
+# 網路攻擊(Nerwork Attacks)
 
 >* [Bypassing Firewalls with DNS Tunnelling (Defence Evasion, Exfiltration and Command & Control)](https://www.youtube.com/watch?v=49F0co_VrTY)
 >* [Real world examples of malware using DNS for exfiltration and C&C channels](https://www.youtube.com/watch?v=UVYnVELzJk4&t=9s)
 
+# 網路安全(Nerwork Security)
+
+>* [什麼是防火牆？](https://www.youtube.com/watch?v=kDEX1HXybrU&t=76s)
+>* [What is firewall? | Types of firewall | network firewall security | TechTerms](https://www.youtube.com/watch?v=aUPoA3MSajU)
+
+
+>* [IPS and IDS | Intrusion Detection(入侵偵測) and Intrusion Prevention Systems(入侵防禦)](https://www.youtube.com/watch?v=o_12yZfQa-M)
+>* [Install snort on windows 10 (Part 1)](https://www.youtube.com/watch?v=SlxkmrpJkYQ)
+>* [Install snort on Windows 10 (Part 2)](https://www.youtube.com/watch?v=4SMKYgXFxuc)
 
 # 參考書籍
 
