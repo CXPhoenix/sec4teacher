@@ -148,7 +148,7 @@ https://github.com/ctfs/write-ups-2013/tree/master/pico-ctf-2013/second-contact
 
 
 # Network-8 超讚  必教
->* [檔案下載]()
+>* [檔案下載](https://drive.google.com/file/d/1MoQ7MuJKdjkoah5eqVo9IvnxlprRVKHK/view?usp=sharing)
 ```
 將封包中的檔案存起來
 https://ithelp.ithome.com.tw/articles/10194979
