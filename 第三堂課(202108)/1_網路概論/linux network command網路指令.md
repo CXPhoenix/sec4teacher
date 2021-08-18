@@ -28,3 +28,7 @@
 >* [10 Useful Windows Networking Commands](https://stevessmarthomeguide.com/windows-networking-commands/)
 
 >* [11 NETWORKING COMMANDS EVERY WINDOWS ADMIN SHOULD USE](https://techgenix.com/top-11-networking-commands/)
+
+>* [給學生練習英文Networking Command Line Tools](https://www.youtube.com/watch?v=nH85pddWWAk)
+
+>* [CompTIA Network+ Certification Video Course證照](https://www.youtube.com/watch?v=vrh0epPAC5w&t=138s)
