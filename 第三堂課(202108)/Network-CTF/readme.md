@@ -28,12 +28,17 @@ https://github.com/HappyHackingHigh/CTF/blob/master/MyFirstSecurity/week11_Netwo
 ```
 
 # Network-1
+
+>* [檔案下載](https://drive.google.com/file/d/1uyJsGCqQhI6crFxCaBO32BEU5xzDq7yV/view?usp=sharing)
 ```
 strings ws1_2.pcapng |grep CTF
 ```
 >* 題庫來源  BITSCTF 2017 : woodstock-1-10
 
 # Network-2
+
+
+>* [檔案下載](https://drive.google.com/file/d/1XSle05IGFHmEBTDFK71nS1VwpQupy0Bj/view?usp=sharing)
 ```
 Follow TCP stream
 https://github.com/zst-ctf/angstromctf-2019-writeups/tree/master/Solved/Paper_Trail
@@ -45,6 +50,10 @@ See if you can find anything in the network packets we've intercepted from his c
 >* 題庫來源 angstromctf-2019/Paper_Trail
 
 # Network-3
+
+>* [檔案下載](https://drive.google.com/file/d/18pJIJNTWrypUm9t9M0EaSkp2_x9p7ade/view?usp=sharing)
+
+
 ```
 Follow TCP stream  + ROT 13
 PicoCTF2021-Writeup/Forensics/Wireshark doo dooo do doo/Wireshark doo dooo do doo.md
@@ -65,6 +74,9 @@ picoCTF{p33kab00_1_s33_u_deadbeef}
 
 
 # Network-4
+
+
+>* [檔案下載](https://drive.google.com/file/d/1p30BIo2rVotwy-uzf4HRNqZWPMKQcz8I/view?usp=sharing)
 ```
 Follow UDP stream
 
@@ -77,6 +89,8 @@ https://zomry1.github.io/shark-on-wire-1/
 >* 題庫來源 PicoCTF2019/shark on wire 1
 
 # Network-5
+
+>* [檔案下載]()
 ```
  base64編碼
 ```
@@ -88,6 +102,10 @@ https://zomry1.github.io/shark-on-wire-1/
 
 
 # Network-6
+
+>* [檔案下載]()
+
+
 ```
 We can get into the Administrator's computer with a browser exploit.
 But first, we need to figure out what browser they're using.
@@ -107,6 +125,9 @@ Maybe try reading up on user-agent strings.
 >* 題庫來源 PicoCTF_2017: Special Agent User(MUST)
 
 # Network-7
+
+
+>* [檔案下載](https://drive.google.com/file/d/1wxWi7PyVGYsXgyj87L6gY7a92gssIGdT/view?usp=sharing)
 ```
 As you're bumming around the Kuiper Belt, 
 you catch an incoming transmission from a distant source.
@@ -123,17 +144,9 @@ Can you find the author who ....
 https://github.com/ctfs/write-ups-2013/tree/master/pico-ctf-2013/second-contact
 ```
 
-# Network-8
-```
-USB Forensics
-```
 
-```
-https://github.com/DavideRoss/pico-ctf-2017-writeups/tree/master/level-2/forensics/just-keyp-trying
-```
->* 題庫來源 
-
-# Network-9 超讚  必教
+# Network-8 超讚  必教
+>* [檔案下載]()
 ```
 將封包中的檔案存起來
 https://ithelp.ithome.com.tw/articles/10194979
@@ -149,7 +162,17 @@ https://www.aperikube.fr/docs/tjctf_2018/ssleepy/
 ```
 >* 題庫來源 
 
+# Network-9
 
+>* [檔案下載]()
+```
+USB Forensics
+```
+
+```
+https://github.com/DavideRoss/pico-ctf-2017-writeups/tree/master/level-2/forensics/just-keyp-trying
+```
+>* 題庫來源 
 # Network-10
 ```
 33c3 CTF : exfil-100
