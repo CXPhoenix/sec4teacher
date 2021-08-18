@@ -29,7 +29,8 @@ https://github.com/HappyHackingHigh/CTF/blob/master/MyFirstSecurity/week11_Netwo
 
 # Network-1
 
->* [檔案下載](https://drive.google.com/file/d/1uyJsGCqQhI6crFxCaBO32BEU5xzDq7yV/view?usp=sharing)
+>* [檔案下載](https://drive.google.com/file/d/1XSle05IGFHmEBTDFK71nS1VwpQupy0Bj/view?usp=sharing)
+
 ```
 strings ws1_2.pcapng |grep CTF
 ```
@@ -38,7 +39,8 @@ strings ws1_2.pcapng |grep CTF
 # Network-2
 
 
->* [檔案下載](https://drive.google.com/file/d/1XSle05IGFHmEBTDFK71nS1VwpQupy0Bj/view?usp=sharing)
+>* [檔案下載](https://drive.google.com/file/d/1uyJsGCqQhI6crFxCaBO32BEU5xzDq7yV/view?usp=sharing)
+
 ```
 Follow TCP stream
 https://github.com/zst-ctf/angstromctf-2019-writeups/tree/master/Solved/Paper_Trail
