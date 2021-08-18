@@ -2,6 +2,8 @@
 
 >* [網絡類型：LAN，WAN，PAN，CAN，MAN，SAN，WLAN](https://www.youtube.com/watch?v=4_zSIXb7tLQ)
 >* [Network Topologies (Star, Bus, Ring, Mesh, Ad hoc, Infrastructure, & Wireless Mesh Topology)](https://www.youtube.com/watch?v=zbqrNg4C98U)
+
+
 >* [OSI Model Explained | OSI Animation | Open System Interconnection Model | OSI 7 layers | TechTerms](https://www.youtube.com/watch?v=vv4y_uOneC0)
 
 >* [TCP/IP Model Explained | Cisco CCNA 200-301](https://www.youtube.com/watch?v=OTwp3xtd4dg)
