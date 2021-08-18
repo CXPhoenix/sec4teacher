@@ -105,7 +105,7 @@ https://zomry1.github.io/shark-on-wire-1/
 
 # Network-6
 
->* [檔案下載]()
+>* [檔案下載](https://drive.google.com/file/d/1_I7Ob8qaMcp8Gs-m6G7Avc5Q1o1qdzVd/view?usp=sharing)
 
 
 ```
