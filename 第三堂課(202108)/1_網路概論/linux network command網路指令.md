@@ -21,3 +21,10 @@
 |whois|	Will tell you about the website's whois.|
 |ifplugstatus |	Tells whether a cable is plugged in or not.|
 ```
+# Windows network command網路指令
+
+>* [Windows 10 network commands everyone should know](https://www.techrepublic.com/article/ten-windows-10-network-commands-everyone-one-should-know/)
+
+>* [10 Useful Windows Networking Commands](https://stevessmarthomeguide.com/windows-networking-commands/)
+
+>* [11 NETWORKING COMMANDS EVERY WINDOWS ADMIN SHOULD USE](https://techgenix.com/top-11-networking-commands/)
