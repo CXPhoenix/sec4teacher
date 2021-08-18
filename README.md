@@ -12,7 +12,7 @@
 1.基礎linux入門
 2.隱寫術入門
 ```
-## [第三次課程](https://github.com/8wingflying/sec4teacher/tree/main/%E7%AC%AC%E4%BA%8C%E5%A0%82%E8%AA%B2(202108))
+## [第三次課程](https://github.com/8wingflying/sec4teacher/tree/main/%E7%AC%AC%E4%B8%89%E5%A0%82%E8%AA%B2(202108))
 ```
 1.網路基本概論
 2.wireshark封包分析技術
